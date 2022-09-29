@@ -1,0 +1,25 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es el primer proyecto de Node en Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "node hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albabarrera/OB-primer-ej-node.git"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproject"
+  ],
+  "author": "Alba Barrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albabarrera/OB-primer-ej-node/issues"
+  },
+  "homepage": "https://github.com/albabarrera/OB-primer-ej-node#readme"
+}
